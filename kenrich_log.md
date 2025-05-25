@@ -7,7 +7,10 @@ Although death was close, I felt almost at home in the icy waters.
 When I hit the bottom of the ocean, the world seemed to change around me. 
 I could breathe, and swim more easily than I could have dreamed of. 
 The chains around my legs were gone, and I was.. a seal!
-After exploring the sea-floor, I swam to shore and went to an inn.
+After exploring the sea-floor, I swam to shore and stayed at an inn. 
+It seems the pirate life is behind me, I think it is time to live a life more above board. 
+Stay too long in this life, and it won't end well.
+I have tested my luck long enough. 
 
 # New friends!
 I was hanging out in front of the inn, and there came three travelers in good spirits. 
