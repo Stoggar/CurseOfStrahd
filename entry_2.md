@@ -137,12 +137,25 @@ surrounded by riches and madness.
 His home is his prison
 
 
+### fifth card
+
+Your enemy is a creature of darkness and beyond mortality
 
 
+This card will lead you to him.
+
+He lurks in the dark, 
+
+where the light of dawn shone on a sacred place. 
 
 
+### Interpretation
 
+It seems like the first three are clues to some sources of power that can help us. 
 
+The fourth is a clue to a potential ally. 
+
+The fifth is a clue to where our enemy is. 
 
 
 
