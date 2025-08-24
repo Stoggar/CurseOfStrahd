@@ -84,7 +84,7 @@ We were encoraged to visit the tent of madam Eva, a fortune-teller, and have our
 It was very interesting, she seemed to know us the moment we stepped inside the tent. 
 She put out som cards, told us their meaning and gave some advice on our next steps:
 
-### first card
+### First card
 
 A powerful force for good and protection.
 A holy symbol of hope.
@@ -95,7 +95,7 @@ A servant of light
 Brother of darkness  
 The treasure rests with him. 
 
-### second card
+### Second card
 
 Strength and power  
 Weapon of vengance  
@@ -106,7 +106,7 @@ A fallen house, guarded by a stonedragon
 Look for the highest point
 
 
-### third card
+### Third card
 
 Tells of history  
 Knowledge about the elder  
@@ -116,7 +116,7 @@ Will help you understand your enemy
 A throne fit for a king
 
 
-### fourth card
+### Fourth card
 
 Shows who can help us in the fight against darkness
 
@@ -126,7 +126,7 @@ Surrounded by riches and madness.
 His home is his prison
 
 
-### fifth card
+### Fifth card
 
 Your enemy is a creature of darkness and beyond mortality
 
