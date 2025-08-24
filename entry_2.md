@@ -87,38 +87,29 @@ She put out som cards, told us their meaning and gave some advice on our next st
 ### first card
 
 A powerful force for good and protection.
+A holy symbol of hope.
 
-a holy symbol of hope.
 
-
-A sleeping prince
-
-a servant of light 
-
-brother of darkness
-
+A sleeping prince  
+A servant of light  
+Brother of darkness  
 The treasure rests with him. 
 
 ### second card
 
-Strength and power
-
-Weapon of vengance
-
+Strength and power  
+Weapon of vengance  
 A sword of sunlight
 
 
-A fallen house, guarded by a stonedragon
-
+A fallen house, guarded by a stonedragon  
 Look for the highest point
 
 
 ### third card
 
-Tells of history
-
-Knowledge about the elder
-
+Tells of history  
+Knowledge about the elder  
 Will help you understand your enemy
 
 
@@ -130,10 +121,8 @@ A throne fit for a king
 Shows who can help us in the fight against darkness
 
 
-Seek a disturbed young man
-
-surrounded by riches and madness.
-
+Seek a disturbed young man  
+Surrounded by riches and madness.  
 His home is his prison
 
 
@@ -142,19 +131,15 @@ His home is his prison
 Your enemy is a creature of darkness and beyond mortality
 
 
-This card will lead you to him.
-
-He lurks in the dark, 
-
-where the light of dawn shone on a sacred place. 
+This card will lead you to him.  
+He lurks in the dark,   
+Where the light of dawn shone on a sacred place. 
 
 
 ### Interpretation
 
 It seems like the first three are clues to some sources of power that can help us. 
-
 The fourth is a clue to a potential ally. 
-
 The fifth is a clue to where our enemy is. 
 
 
