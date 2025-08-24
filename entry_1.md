@@ -47,5 +47,5 @@ The doll had the words *is no fun, is no Blinksky* written on it.
 The women misses her daughter *Gertruda* who she *kept safe* (creepy!) and has now escaped. 
 We promised her to do all in our power to get back her missing daughter (I'm not sure what I've signed up for here). 
 
-The man in the inn said he would come with us, but he left before wo got to bed. 
+The man in the inn said he would come with us, but he left before we got to bed. 
 
