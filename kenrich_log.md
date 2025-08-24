@@ -1,6 +1,6 @@
 The journal of Kenrich Seaweed
 
-[Quests](quests.md)
+[Quests](kenrich_log/quests.md)
 
 [entry 1](kenrich_log/entry_1.md)
 
