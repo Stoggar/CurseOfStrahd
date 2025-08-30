@@ -6,11 +6,11 @@ column-gap: 5px;">
 <img style="float:right;" src="./images/kenrich.png"/>
 <div>
 
-[Quests](kenrich_log/quests.md)
+<a href="kenrich_log/quests.md"> Quests </a>
 
-[entry 1](kenrich_log/entry_1.md)
+<a href="kenrich_log/entry_1.md"> entry 1 </a>
 
-[entry 2](kenrich_log/entry_2.md)
+<a href="kenrich_log/entry_2.md"> entry 2 </a>
 
 </div>
 </div>
