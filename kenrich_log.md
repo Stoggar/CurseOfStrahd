@@ -7,10 +7,11 @@ column-gap: 5px;">
 <div>
 
 <a href="kenrich_log/quests.md"> Overview of our challanges </a><br>
-
+<br>
 <a href="kenrich_log/entry_1.md"> First Entry </a><br>
-
+<br>
 <a href="kenrich_log/entry_2.md"> Second Entry </a><br>
+<br>
 
 </div>
 </div>
