@@ -5,4 +5,4 @@
 - [First Entry](kenrich_log/entry_1.md)
 - [Second Entry](kenrich_log/entry_2.md)
 
-![Kenrich](./images/kenrich.png)
+<img src="./images/kenrich.png" width="40%" alt="Kenrich">
