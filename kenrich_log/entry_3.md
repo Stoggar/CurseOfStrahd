@@ -49,14 +49,3 @@ Brie found some potions in a cabinet with some intresting labels:
 
 I think I'm going to scout upstairs in spider-form and look around. 
 
-<!-- 
-I scouted upstairs as a spider, and saw Morganta sweeping. 
-There was white dust, leftover bones and blood on her apron. 
-On the next floor were two women with dresses made of flesh, they were dancing. 
-Two children were there in cages. 
-On the floor were piles of clothes. 
-
-There was a ladder to the top floor. 
-There was some old machinery there, and a birds nest. 
-
-Morganta is dead, the two other witches are at the top of the stairs. -->

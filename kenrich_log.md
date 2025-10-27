@@ -3,7 +3,8 @@
 
 - [First Entry](kenrich_log/entry_1.md)
 - [Second Entry](kenrich_log/entry_2.md)
-- [third Entry](kenrich_log/entry_3.md)
+- [Third Entry](kenrich_log/entry_3.md)
+- [Fourth Entry](kenrich_log/entry_4.md)
 
 ## Notes
 - [Challanges](kenrich_log/quests.md)
