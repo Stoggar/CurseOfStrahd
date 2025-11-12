@@ -33,3 +33,6 @@ I drink with friends, chase treasures of a nobler sort, and honor the promise I 
 Some say fate brought me to Barovia, to a land where night reigns eternal. Perhaps they are right. Perhaps this is where the stars have always been leading me. And if I must face the dark, I shall face it as I always have — with the sea at my back, the sky above my head, and laughter on my lips.
 
 For I am a sailor of the stars, a druid of the deep, and a pirate reborn.
+
+
+<img src="../images/kenrich2.png" width="40%" alt="Kenrich">
