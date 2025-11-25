@@ -1,4 +1,5 @@
 # The Stars Beneath the Waves: An Autobiography
+<img src="../images/kenrich2.png" width="40%" alt="Kenrich">
 
 I was born with the sea in my blood and the stars in my eyes. From the first moment I set foot on a deck, I knew I was meant to navigate not just the oceans of the world, but the hidden paths only the heavens reveal. While others measured their lives in plunder and rum, I charted mine in constellations. I was the navigator, the one who held the sky in his hands and drew lines across the void to guide us home.
 
@@ -34,5 +35,3 @@ Some say fate brought me to Barovia, to a land where night reigns eternal. Perha
 
 For I am a sailor of the stars, a druid of the deep, and a pirate reborn.
 
-
-<img src="../images/kenrich2.png" width="40%" alt="Kenrich">
