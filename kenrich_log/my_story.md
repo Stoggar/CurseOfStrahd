@@ -1,15 +1,16 @@
-# The Stars Beneath the Waves: An Autobiography
-<img src="../images/kenrich2.png" width="40%" alt="Kenrich">
+<h1 style="display:inline-block; vertical-align:top; margin-top:16px;">The Stars Beneath the Waves: An Autobiography</h1>
+<img src="../images/kenrich2.png" style="float:left; margin:16px 24px 16px 0; width:40%;" alt="Kenrich" />
 
-I was born with the sea in my blood and the stars in my eyes. From the first moment I set foot on a deck, I knew I was meant to navigate not just the oceans of the world, but the hidden paths only the heavens reveal. While others measured their lives in plunder and rum, I charted mine in constellations. I was the navigator, the one who held the sky in his hands and drew lines across the void to guide us home.
 
-## Life Before the Fall
+<p>I was born with the sea in my blood and the stars in my eyes. From the first moment I set foot on a deck, I knew I was meant to navigate not just the oceans of the world, but the hidden paths only the heavens reveal. While others measured their lives in plunder and rum, I charted mine in constellations. I was the navigator, the one who held the sky in his hands and drew lines across the void to guide us home.</p>
+
+<h2 style="display:inline-block; vertical-align:top; margin-top:8px;">Life Before the Fall</h2>
 
 Ours was no ordinary ship. She was freedom, carried on black sails. And our captain — gods bless him — was more than a leader. He was the beating heart of our crew. To me, he was a brother, a mentor, and, when he let down his guard, a friend who shared his dreams beneath the constellations I traced across the night sky. Together we would talk of maps yet to be drawn, horizons yet to be reached, and treasures not of gold but of knowledge.
 
 He trusted me with his course, and I trusted him with my life. But trust is a fragile thing among pirates, and not all hearts are so easily tethered to loyalty.
 
-## Mutiny
+<h2 style="display:inline-block; vertical-align:top; margin-top:8px;">Mutiny</h2>
 
 Tension grew like storm clouds. Whispers in the dark, hungry eyes staring too long at the captain’s share, and at mine. When the mutiny came, it was swift and merciless. Chains were thrown around my legs, and steel pressed against my back.
 
@@ -17,7 +18,7 @@ I looked to my captain — bound beside me, beaten but unbroken — and I knew t
 
 The sea swallowed me whole.
 
-## The Rebirth
+<h2 style="display:inline-block; vertical-align:top; margin-top:8px;">The Rebirth</h2>
 
 I should have drowned. Any sailor would tell you so. But as I sank into the icy embrace of the deep, I felt no fear. The water was not death. It was freedom. The chains fell away, my lungs filled not with brine but with breath, and my body shifted — fur and flippers where hands and feet had been.
 
@@ -25,7 +26,7 @@ I was a seal, darting through the currents as if I had always belonged. The ocea
 
 The pirate was gone. In his place, a druid was born.
 
-## A New Course
+<h2 style="display:inline-block; vertical-align:top; margin-top:8px;">A New Course</h2>
 
 When I washed ashore, I left behind the life of blood and plunder. Yet the sea, the stars, and the spirit of my captain — they remain with me still. My cloak may be woven with sky, my staff crowned with moonlight, but in my heart I still carry the rhythm of the tide and the laughter of a ship at full sail.
 
