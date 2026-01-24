@@ -6,6 +6,7 @@
 - [Third Entry](kenrich_log/entry_3.md)
 - [Fourth Entry](kenrich_log/entry_4.md)
 - [Fifth Entry](kenrich_log/entry_5.md)
+- [Sixth Entry](kenrich_log/entry_6.md)
 
 ## Notes
 - [Challanges](kenrich_log/quests.md)

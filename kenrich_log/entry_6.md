@@ -1,45 +1,43 @@
-# Druidic Agression
+# Catwoman 
+Lady Fiona Vachter was home after all, she was just busy with some ritual in the basement. 
+She and three other cultists were doing some ritual with the bones of saint Andrel. 
+I returned upstairs after my scouting mission and discussed how to deal with the guards and get to Fiona. 
+The discussion was interrupted however by evasdropping guards. 
+We killed them quite brutally, and did the same with Fiona when we got downstairs. 
+We got back upstairs and investigated a strange sound we heard earlier. 
+"don't leave" it had said. 
+We found the source of the sound after some knocking and wall-bashing, and it turned out to be a girl. 
+She crawled around on all fours like a cat and escaped past us and all the way out of the estate. 
+She was free. 
 
-On our way to the Wizard of Wines Winery, we took a shortcut through the woods. 
-However the path was trapped and I fell into ino a pit with spikes at the bottom. 
-That hurt!
-When we got outside we found the footsteps, that seemingly belonged to some druids. 
-I yelled out in druidic in the hopes of new allies, however they were not the frendly sort, and attacked us. 
-I'm guessing they served Strahd. 
-We killed all ten of them, and found one was carrying an image of a staff. 
-To me, even the picture seemed to emenate evil. 
+# Save the church!
+We sprinted over to the church with the bones of saint Andrel. 
+On the way we had to fight a vampire, he was pretty strong, but no match for the four of us. 
+We spent the night there before heading to the mayors house for our reward. 
 
-When we continued towards the winery we discovered the corpse of the poor catgirl in a ditch on the side of the road. 
-She had a drawing of Vichtor with a heart around it. 
-Rest in peace catgirl, we will remember you. 
+# Weapons against the darkness
+At the mayor's house everyone were busy with preparations for the festival. 
+The mayor however were pleased with our efforts, and was going to give us one silver weapon for our trouble. 
+We felt we deserved more than one, and turns out Mahuuren can be very persuasive when shows his fangs. 
+We left the place with one greatsword and one longsword, for Mahuuren and Hugo. 
 
-<img src="../images/catlady.png" width="40%" alt="catlady">
+# Bardic knowledge
+We went to the inn to meet a bard and get more information about how to kill vampires. 
+When we got there, we overheard some people talking about the girl in lady Fiona's estate. 
+Turns out she was to be married to Vichtor (the mayor's son) but the rumors are that he said such horrible things to her, that she needed to be locked up. 
+Doesn't make sense to me to lock someone up for acting like a cat, but what do I know. 
 
+When we questioned the bard about how to kill vampires, he suddenly didn't want to talk. 
+Questioning our motives. 
+Appearantly things are not black and white here, the vampires must have some supporters. 
 
-# Abandoned Barn 
+# Festival of the damned sun that won't burn
+On the way to the festival, we met a guy saying "it's a conspiracy!", unfortunately when confronted with four heavily armed strangers, he wasn't keen to elaborate. 
 
-We spent the night in an abandoned barn. We do not know if Strahd is still after us, now that Irena stayed behind at the church in Valaki, but better to be on the safe side. During the night, Brie and I had the same dream. Of a city in flames, and Irena mumbling in her sleep "not here, I can't take this again". 
-M'huuren tasted the "Mother's Milk" that Brie had been carrying since Bonegrinder Mill. 
-He became suddenly very peaceful and felt safe, like he was on vacation, and not trapped in a nightmare of mist and fireballs. 
-
-
-# Family buisness
-
-When the winery was in sight in the distance we were beckoned to the edge of the forest, where the family that owns the Winery were hiding. 
-They looked battered as if they'd been through a fight. 
-Damian Martikov told us druids had captured the winery. 
-Appearantly the innkeeper that sent us on this quest is his son. 
-They do not seem to get along. 
-
-We learned that this is the only place that grapes can grow in all of Barovia, and it's thanks to a wizard that it can grow here. 
-
-# The battle for the Winery
-
-When approaching the winery, a myriad of twig-creatures emerged from the forest around us. 
-Istead of fighting, we ran into the winery, and bolted the door behind us. 
-However, we might have found where the twig-blights came from. 
-Up from a wine-barrel escaped 24 twig-blights. 
-And on the balcony above were another druid. 
-We defeated all of them in battle. 
-Brie found a potion, that none of us coud identify, and M'huuren tried some wine (which didn't look like a good decicion). 
+When we arrived at the city square, they were getting ready to light up the sun-effigy. 
+The first attempt to light it was unfortunately doused by a sudden rain. 
+The mayor, who keeps proving he's even crazyer than I thought demanded three people as sacrifice. 
+We tried pursuading him to stop, Hugo tried to pursuade the audience to revolt, and Mahuuren got angrier than I've ever seen him. 
+Before a fight could break out between us however, some of Vachter's soldiers attacked the festival. 
+We freed the prisoners and left town. 
 
